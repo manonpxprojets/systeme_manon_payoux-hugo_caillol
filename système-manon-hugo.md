@@ -44,6 +44,7 @@ Meilleure mineure — Majeure 5e
    - [Intervention sur 1SA d'ouverture](#intervention-1SA)
    - [Defense sur les barrages adverses](#defense-barrages)
    - [Défense sur 2K Multi](#defense-2k-multi)
+   - [Développements après notre intervention par 1SA](#developpements-apres-intervention-par-1SA)
    - [Défense après X punitif de notre 1SA d'intervention](#defense-1SA-X)
    - [Développements après intervention adverse d'1SA](#developpements-intervention-1SA)
 8. [Principes Généraux](#principes-generaux)
@@ -167,6 +168,72 @@ Stayman 4 paliers, texas classiques.
 
 ### Développements après Stayman
 
+- **Quand l’ouvreur a une des deux majeures 4ième**
+
+
+        | N | S | N | S | Signification |
+        | --- | --- | --- | --- | --- |
+        | 1SA | 2♣ | 2♥ | 3♠ | espoir de chelem à ♥ (palier de 3!!) MAJEUR INVERSEE ! |
+        | 1SA | 2♣ | 2♥ | 2SA | propo de manche à SA |
+        | 1SA | 2♣ | 2♥ | 3♣ | Pas de fit à ♥ et une force à ♣ (plutôt 5 cartes) |
+        | 1SA | 2♣ | 2♥ | 3♥ | propo de manche à ♥ avec 5 cartes à ♥ |
+        | 1SA | 2♣ | 2♥ | 4K | splinter & 15-17HLD |
+    - **Quand l’ouvreur a les deux majeurs 4ième**
+
+
+        | N | S | N | S | Signification |
+        | --- | --- | --- | --- | --- |
+        | 1SA | 2♣ | 2SA | 3♣/♦ | main prop de manche à ♥/♠ |
+        | 1SA | 2♣ | 2SA | 4♣/♦ | points pour manche à ♥/♠ (>10H) |
+        | 1SA | 2♣ | 2SA | 3♥/♠ | main prop de chelem à ♥/♠(>15H) MAJEUR INVERSEE ! |
+    - Quand l’ouvreur a 5 cartes en M et est max : stayman 6 paliers ?
+
+
+        | Ouverture | Répondant | Ouvreur | Répondant | Signification |
+        | --- | --- | --- | --- | --- |
+        | 1SA | 2♣ | 3♥ |  | l'ouvreur a 5 cartes à ♥ et 17H |
+        | 1SA | 2♣ | 3♥ | 4♥ | le répondant est fitté (3 cartes à ♥) et plutôt IRR |
+        | 1SA | 2♣ | 3♥ | 3SA | le répondant n'est pas fitté ou bien il est fitté mais trop REG |
+
+        pas joué avec H seulement stayman 4 paliers
+
+    - **Misère dorée**
+
+
+        | N | E | S | O | Signification |
+        | --- | --- | --- | --- | --- |
+        | 1SA | 2♣ | 2♦ | 2♠ | au moins 5 cartes à ♠ & un singleton (et 4 cartes à ♥ parfois) |
+        | 1SA | 2♣ | 2♦ | 2♥ | au moins 5 cartes à ♥ (et 4 cartes à ♠ parfois) |
+
+        Attention : quand on répond 2P au stayman et que le répondant dit 2SA, il faut dire 3C avec 3 cartes à C au cas où le répondant aurait voulu faire une misère dorée à C.
+
+    - Chassé croisé
+
+
+        | N | E | S | O | Signification |
+        | --- | --- | --- | --- | --- |
+        | 1SA | 2♣ | 2♦ | 3♠ | au moins 5 cartes à ♥ et 4 cartes à ♠ |
+        | 1SA | 2♣ | 2♦ | 3♥ | au moins 5 cartes à ♠ et 4 cartes à ♥ |
+
+    - Quand le stayman est contré
+
+
+        | N | O | S | E | Signification |
+        | --- | --- | --- | --- | --- |
+        | 1SA | pass | 2♣ | X |  |
+        | pass |  |  |  | sans arrêt à T on passe dans un premier temps !
+        sauf avec les 2 majeurs 4ième |
+        | 2♥/♠ |  |  |  | arrêt T + 4 cartes à ♥/♠ |
+        | 2K |  |  |  | arrêt T + du K + pas de majeure par 4 |
+        | 2SA |  |  |  | 4♥ + 4♠ |
+
+        | N | O | S | E | Signification |
+        | --- | --- | --- | --- | --- |
+        | 1SA | pass | 2♣ | X |  |
+        | pass | pass | XX | pass | sans arrêt à T on passe dans un premier temps !
+        sauf avec les 2 majeurs 4ième : le partenaire est obligé de XX |
+        | 2C/2P |  |  |  | 4 cartes à P / 4 cartes à C, on inverse les couleurs pour que celui qui joue soit celui qui a potentiellement l’arrêt T.  |
+
 <a id="texas"></a>
 
 ### Développements après Texas
@@ -250,11 +317,27 @@ X mineur-majeur (=> 2T passe ou corrige, 2K nomme ta majeure)
 
 ### Defense sur les barrages adverses
 
+#### Mini CUBID
+
+- A détailler
+  2SA en réponse à un contre d’appel après un barrage au palier de 2 : pour caser toutes les mains qui mériteraient de faire un saut si le contre était au palier de 1, mains de 8-10H
+
 <a id="rencontre"></a>
 
 ### Enchères de rencontre
 
 Sur intervention 1m 1M
+
+<a id="developpements-apres-intervention-par-1SA"></a>
+
+"Minou/matou"
+
+- Détails
+
+1m 1SA : réponses comme si l'ouverture n'existe pas (texas, stayman...)
+1M 1SA : réponses tout texas, texas impossible = stayman
+
+### Défense après X punitif de notre 1SA d'intervention
 
 <a id="defense-1SA-X"></a>
 
