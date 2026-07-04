@@ -15,6 +15,7 @@ Signalisation à Sant Atout :
 - Entame 4e meilleure
 - Appel direct
 - Defausse lavinthal
+- Appel de Smith
 
 Signalisation à l'atout : 
 - Entame pair-impair
