@@ -35,6 +35,7 @@ Les changements se font via pull request avec validation mutuelle.
 - Il doit être aussi lisible que possible quand affiché en .md.
 - On privilégiera l'usage de séquénces détaillées ligne par ligne aux tableaux qui peuvent poser des problèmes d'affichages et sont plus embêtants à copier coller.
 - Lors d'ajouts ou modifications du document, ne modifie JAMAIS la signification d'une enchère.
+- Pour remplacer un bloc de plusieurs lignes (ex. une table entière), l'outil Edit échoue souvent silencieusement sur ce fichier (probable souci d'encodage sur les caractères accentués/apostrophes courbes). Si Edit échoue une ou deux fois sur un même bloc, ne pas insister : relire le fichier en entier et le réécrire avec Write plutôt que de multiplier les tentatives.
 
 Notation d'une enchère :
 

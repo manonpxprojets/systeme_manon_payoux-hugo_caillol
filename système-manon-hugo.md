@@ -150,7 +150,7 @@ Stayman 4 paliers, texas classiques.
 
 **1SA**
 
-- 2♣ : stayman classique, possible majeure 5ème 7–8H
+- 2♣ : stayman 4 paliers classique, possible majeure 5ème 7–8H
   - 2♠ – 2SA :
     - 3♥ : maxi avec 3♥
     - 3SA : maxi sans 3♥
@@ -168,71 +168,48 @@ Stayman 4 paliers, texas classiques.
 
 ### Développements après Stayman
 
-- **Quand l’ouvreur a une des deux majeures 4ième**
+Après **1SA - 2♣ - 2♥** : l'ouvreur a une des deux majeures 4ième
 
+- 2SA : proposition de manche à SA
+- 3♣/♦ : pas de fit à ♥ et une force à ♣/♦ (plutôt 5 cartes)
+- 3♥ : proposition de manche à ♥
+- 3♠ : espoir de chelem à ♥ (palier de 3 !!) MAJEURE INVERSÉE !
+- 4♣/♦ : splinter, 15+HLD (au moins espoir de chelem)
 
-        | N | S | N | S | Signification |
-        | --- | --- | --- | --- | --- |
-        | 1SA | 2♣ | 2♥ | 3♠ | espoir de chelem à ♥ (palier de 3!!) MAJEUR INVERSEE ! |
-        | 1SA | 2♣ | 2♥ | 2SA | propo de manche à SA |
-        | 1SA | 2♣ | 2♥ | 3♣ | Pas de fit à ♥ et une force à ♣ (plutôt 5 cartes) |
-        | 1SA | 2♣ | 2♥ | 3♥ | propo de manche à ♥ avec 5 cartes à ♥ |
-        | 1SA | 2♣ | 2♥ | 4K | splinter & 15-17HLD |
-    - **Quand l’ouvreur a les deux majeurs 4ième**
+Après **1SA - 2♣ - 2♠** : l'ouvreur a une des deux majeures 4ième
 
+- 2SA : proposition de manche à SA
+- 3♣/♦ : pas de fit à ♠ et une force à ♣/♦ (plutôt 5 cartes)
+- 3♠ : proposition de manche à ♠
+- 3♥ : espoir de chelem à ♠ (palier de 3 !!) MAJEURE INVERSÉE !
+- 4♣/♦ : splinter, 15+HLD (au moins espoir de chelem)
 
-        | N | S | N | S | Signification |
-        | --- | --- | --- | --- | --- |
-        | 1SA | 2♣ | 2SA | 3♣/♦ | main prop de manche à ♥/♠ |
-        | 1SA | 2♣ | 2SA | 4♣/♦ | points pour manche à ♥/♠ (>10H) |
-        | 1SA | 2♣ | 2SA | 3♥/♠ | main prop de chelem à ♥/♠(>15H) MAJEUR INVERSEE ! |
-    - Quand l’ouvreur a 5 cartes en M et est max : stayman 6 paliers ?
+Après **1SA - 2♣ - 2SA** : l'ouvreur a les deux majeures 4èmes
 
+- 3♣/♦ : main propositionnelle de manche à ♥/♠ (double transfert)
+- 3♥/♠ : main propositionnelle de chelem à ♠/♥ (>15H) MAJEURES INVERSÉES !
+- 4♣/♦ : points pour manche à ♥/♠ (>10H) (double transfert)
 
-        | Ouverture | Répondant | Ouvreur | Répondant | Signification |
-        | --- | --- | --- | --- | --- |
-        | 1SA | 2♣ | 3♥ |  | l'ouvreur a 5 cartes à ♥ et 17H |
-        | 1SA | 2♣ | 3♥ | 4♥ | le répondant est fitté (3 cartes à ♥) et plutôt IRR |
-        | 1SA | 2♣ | 3♥ | 3SA | le répondant n'est pas fitté ou bien il est fitté mais trop REG |
+Après **1SA - 2♣ - 2♦** :
 
-        pas joué avec H seulement stayman 4 paliers
+- **Misère dorée**
+  - 2♥ : au moins 5 cartes à ♥ (et 4 cartes à ♠ parfois)
+  - 2♠ : au moins 5 cartes à ♠ (et 4 cartes à ♥ parfois)
+  - Attention : si le répondant dit 2SA après un 2♠ de l'ouvreur, l'ouvreur doit dire 3♥ avec 3 cartes à ♥, au cas où le répondant aurait voulu faire une misère dorée à ♥.
+- **Chassé croisé**
+  - 3♥ : au moins 5 cartes à ♠ et 4 cartes à ♥
+  - 3♠ : au moins 5 cartes à ♥ et 4 cartes à ♠
 
-    - **Misère dorée**
+Après **1SA - pass - 2♣ - X** : contre du stayman
 
-
-        | N | E | S | O | Signification |
-        | --- | --- | --- | --- | --- |
-        | 1SA | 2♣ | 2♦ | 2♠ | au moins 5 cartes à ♠ & un singleton (et 4 cartes à ♥ parfois) |
-        | 1SA | 2♣ | 2♦ | 2♥ | au moins 5 cartes à ♥ (et 4 cartes à ♠ parfois) |
-
-        Attention : quand on répond 2P au stayman et que le répondant dit 2SA, il faut dire 3C avec 3 cartes à C au cas où le répondant aurait voulu faire une misère dorée à C.
-
-    - Chassé croisé
-
-
-        | N | E | S | O | Signification |
-        | --- | --- | --- | --- | --- |
-        | 1SA | 2♣ | 2♦ | 3♠ | au moins 5 cartes à ♥ et 4 cartes à ♠ |
-        | 1SA | 2♣ | 2♦ | 3♥ | au moins 5 cartes à ♠ et 4 cartes à ♥ |
-
-    - Quand le stayman est contré
-
-
-        | N | O | S | E | Signification |
-        | --- | --- | --- | --- | --- |
-        | 1SA | pass | 2♣ | X |  |
-        | pass |  |  |  | sans arrêt à T on passe dans un premier temps !
-        sauf avec les 2 majeurs 4ième |
-        | 2♥/♠ |  |  |  | arrêt T + 4 cartes à ♥/♠ |
-        | 2K |  |  |  | arrêt T + du K + pas de majeure par 4 |
-        | 2SA |  |  |  | 4♥ + 4♠ |
-
-        | N | O | S | E | Signification |
-        | --- | --- | --- | --- | --- |
-        | 1SA | pass | 2♣ | X |  |
-        | pass | pass | XX | pass | sans arrêt à T on passe dans un premier temps !
-        sauf avec les 2 majeurs 4ième : le partenaire est obligé de XX |
-        | 2C/2P |  |  |  | 4 cartes à P / 4 cartes à C, on inverse les couleurs pour que celui qui joue soit celui qui a potentiellement l’arrêt T.  |
+- passe : pas d'arrêt à ♣, pas les 2 majeures 4ième (une seule possible)
+  - XX (obligatoire du partenaire) :
+    - 2♥ : 4♠
+    - 2♠ : 4♥
+    - (les couleurs sont inversées pour que celui qui a potentiellement l'arrêt à ♣ soit déclarant)
+- 2♥/♠ : arrêt à ♣ + 4 cartes à ♥/♠
+- 2♦ : arrêt à ♣ + du ♦, pas de majeure 4ième
+- 2SA : 4♥ + 4♠
 
 <a id="texas"></a>
 
