@@ -25,3 +25,38 @@ Signalisation à l'atout :
 L’ensemble est présenté dans un seul fichier .md pour faciliter la relecture, les modifications et le versioning collaboratif.
 
 Les changements se font via pull request avec validation mutuelle.
+
+## Réponses et développements après une quelconque ouverture à la couleur
+### ~Roudi
+### ~Réponses à SA
+
+## Réponses et développements après une ouverture en majeur
+
+### ~Avec un fit
+#### ~~Enchères de fit
+#### ~~Fit après un passe d'entrée
+#### ~~Enchères qui varient selon qu'il y ait ou non intervention adverse
+##### 2SA Truscott
+##### 2SA Mixed-raised
+
+### ~A la recherche du bon contrat à jouer (non fitté à la couleur d'ouverture)
+#### Checkback Stayman
+
+## Réponses et développements après une ouverture en mineur
+
+### ~A la recherche du bon contrat à jouer
+#### ~~Cachalot 3 paliers
+#### ~~Bessis
+#### ~~Landik
+
+## Réponses et développements après une ouverture à SA
+
+## Les ouvertures fortes
+
+## Les ouvertures de barrages
+
+## Intervenir
+### ~Intervenir sur 1SA
+### ~Intervenir après une ouverture à la couleur
+#### ~~Michael Cubids
+### ~Intervenir après un barrage adverse
