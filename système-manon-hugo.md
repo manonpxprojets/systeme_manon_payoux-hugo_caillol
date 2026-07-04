@@ -99,6 +99,20 @@ Meilleure mineure — Majeure 5e
 
 ### Réponses
 
+1M :
+
+- 1SA : 6-11H non fitté ou 5-6H avec fit 3e (semi-forcing)
+- 2x : FM
+- 2M : 3+M (7-10H)
+- 2SA : fitté 3 cartes 11-12H
+- 3x : naturel, 6x (limite)
+- 3M : barrage
+- 3SA : fitté 3 cartes 13-15H
+- 4X : splinter
+- 4M : barrage
+
+Et 1C - 3P : splinter
+
 <a id="fits-diff"></a>
 
 ### Fits différés
@@ -224,6 +238,14 @@ Après **1SA – 2♥ – 2♠ – 2SA** :
 
 ### Intervention sur 1SA d'ouverture
 
+**En intervention sur 1SA**  
+X mineur-majeur (=> 2T passe ou corrige, 2K nomme ta majeure)
+2T les majeures (landi) (=> 2K nomme ta plus longue)
+2K unicolore majeur (2SA demande de description et de force)
+2M 5M et 4+m (2SA nomme ta mineure, plus fort que 3T qui est passe ou corrige)
+2SA les mineures
+3x barrage
+
 <a id="defense-barrages"></a>
 
 ### Defense sur les barrages adverses
@@ -242,7 +264,8 @@ Sur intervention 1m 1M
 
 ### Développements après intervention adverse d'1SA
 
-LANDIK
+Si ouverture mineure 2T les majeures (LANDIK) et tout le reste transfert.
+Si ouverture majeure tout transfert même le fit.
 
 <a id="principes-generaux"></a>
 
