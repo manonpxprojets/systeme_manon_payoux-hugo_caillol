@@ -85,9 +85,45 @@ Après **1m - 2♥** :
 
 ### Cachalot 3 Paliers
 
+Sur une ouverture mineure, après une intervention adverse de 1♦ ou 1♥.
+
+Après **1♣ - (1♦)** :
+
+- **Palier 1**
+  - X\* : au moins 4♥
+  - 1♥\* : au moins 4♠
+  - 1♠\* : contre d'appel
+- **Palier 2**
+  - 2♦ : 6 cartes à ♥, faible ou FM
+  - 2♥ : 6 cartes à ♠, faible ou FM (après la rectification, il reparle s'il est FM, sinon il passe)
+  - 2♠ : jeu FM, pas d'arrêt dans la couleur d'intervention (ou demi-arrêt) — réponses au palier 3
+- **Palier 3**
+  - 3♦ : 6 cartes à ♥, jeu propositionnel de manche (10-11H) ; l'ouvreur corrige à 3♥/3♠ ou conclut à la manche (3SA/4♥/4♠)
+
+Après **1♣/1♦ - (1♥)** : palier 1
+
+- X\* : au moins 4♠
+- 1♠\* : contre d'appel
+
+Réponse de l'ouvreur (sur les enchères marquées \*) :
+
+- nommer la couleur du répondant sans saut : 3 cartes
+- saut simple : fit (4 cartes) et ouverture de 1ère zone
+- double saut : fit et ouverture de 2ième zone
+- 1SA : main régulière de 1ère zone avec arrêt dans la couleur du répondant
+- contre : 3 cartes dans la couleur du répondant et une belle ouverture
+
 <a id="roudi"></a>
 
 ### Redemande à 1SA
+
+Après **1♥ - 1♠ - 1SA - 2♣** : roudi, le répondant a 5 cartes à ♠
+
+- 2♦ : pas 3 cartes à ♠
+- 2♥ : 3 cartes à ♠, mini
+- 2♠ : 3 cartes à ♠, maxi
+
+Attention : après **1♥ - 1♠ - 1SA - 2♣ - 2♦** (l'ouvreur n'a pas 3 cartes à ♠), un 2♠ du répondant est alors pour les jouer (naturel, plus du tout relais).
 
 <a id="#redemande-1m-2SA"></a>
 
@@ -106,10 +142,10 @@ Après **1m - 2♥** :
 - 1SA : 6-11H non fitté ou 5-6H avec fit 3e (semi-forcing)
 - 2x : FM
 - 2M : 3+M (7-10H)
-- 2SA : fitté 3 cartes 11-12H
+- 2SA : fitté (3 ou 4 atouts), 11-12HLD
 - 3x : naturel, 6x (limite)
 - 3M : barrage
-- 3SA : fitté 3 cartes 13-15H
+- 3SA : fitté (4 atouts), jeu régulier, 13-16HLD
 - 4X : splinter
 - 4M : barrage
 
@@ -123,6 +159,27 @@ Et 1♥ - 3♠ : splinter
 
 ### Développements après 2/1 FM
 
+2/1 FM, on se décrit naturellement, bicolore cher à partir de 15H. Rebid à 2SA mini ou maxi.
+
+Après **1♦ - (p) - 2♣ - (p)** : (ouverture mineure)
+
+- 2SA : mini (12-14H) ou maxi (18-19H)
+- 2♦ : 5 cartes à ♦
+- 3SA : 4441, singleton ♣, 15-17H (pas de bicolore à faire)
+
+Après **1♥ - (p) - 2♣ - (p)** : (ouverture majeure)
+
+- 2SA : mini (12-14H) ou maxi (18-19H)
+- 2m : bicolore éco
+- 2♠ : bicolore cher atténué, au moins 15H
+- 2♥ : répétition de la couleur, ne promet pas de carte supplémentaire à ♥
+- 3SA : 15-17H, singleton ♣
+
+Après **1♠ - (p) - 2♣ - (p)** : (ouverture majeure)
+
+- 2♠ : répétition de la couleur, promet 1 carte à ♠ en plus
+- Sinon : forcément 2SA / 3SA / 2m / 2♥ (2♥ utilisé ici comme enchère de remplissage, sans rapport avec les cœurs)
+
 <a id="redemande-1M-1SA-2SA"></a>
 
 ### Redemande à 2SA FM après 1M-1SA
@@ -131,13 +188,89 @@ Et 1♥ - 3♠ : splinter
 
 ### Enchères après passe
 
+Pas de Drury en cas d'intervention adverse.
+
+**Drury à 2♣** : 3 atouts, 10-11H
+
+Après **1♥ - 2♣** :
+
+- 2♦ : l'ouverture (sans autre précision)
+  - 3x (nouvelle couleur du répondant) : enchère d'essai
+- 2♥ : répétition de la couleur, 5 cartes, main sans l'ouverture (11H ou moins), non forcing
+  - 2SA (du répondant) : « j'aurais dit 4 si tu avais ouvert en premier »
+- 2♠ : nouvelle couleur, 5-4, 15-17H
+- 3♣/3♦ : 5-5, 16+H
+- 4♥ : pour les jouer, forcing passe
+
+Après **1♠ - 2♣** :
+
+- 2♦ : l'ouverture (sans autre précision)
+  - 3x (nouvelle couleur du répondant) : enchère d'essai
+- 2♠ : répétition de la couleur, 5 cartes, main sans l'ouverture (11H ou moins), non forcing
+  - 2SA (du répondant) : « j'aurais dit 4 si tu avais ouvert en premier »
+- 2♥ : nouvelle couleur, 5-4, 15-17H
+- 3♣/3♦/3♥ : 5-5, 16+H
+- 4♠ : pour les jouer, forcing passe
+
+**Drury à 2SA** : 4 atouts + 1 singleton
+
+Après **1♥ - 2SA - 3♣** (relais pour connaître le singleton) :
+
+- 3♦ : singleton ♣
+- 3♥ : singleton ♦
+- 3♠ : singleton ♠
+
+Après **1♠ - 2SA - 3♣** (relais pour connaître le singleton) :
+
+- 3♦ : singleton ♣
+- 3♥ : singleton ♦
+- 3♠ : singleton ♥
+
+REGLE : exceptionnellement, ici on nomme les singletons dans l'ordre croissant des couleurs.
+
+**Autres enchères d'un répondant passé**
+
+- 1M - changement de couleur à saut : bicolore de rencontre, au moins 5-4, 11-12H
+- 1M - 3M : barrage
+- 1♠ - 2♥ : en principe 6+ cartes à ♥, misfit, environ 7-10H
+
 <a id="mixed-raises"></a>
 
 ### Mixed Raises
 
+Quand le partenaire est intervenu sur l'ouverture adverse et que tout le monde parle.
+
+Après **(1♠) - 2♥ - (2♠)** :
+
+- 2SA : fitté (Mixed Raise)
+
+Récapitulatif de la réponse à l'intervention selon le nombre d'atouts et la force :
+
+- 3 cartes à la couleur du partenaire
+  - 2-6HLD : passe ou 2M (la couleur du partenaire)
+  - 7-9HLD : fit au palier le plus bas disponible
+  - 10HLD+ : cue-bid (couleur d'ouverture adverse)
+- 4 cartes ou plus
+  - 2-6HLD : 3M (si saut), barrage
+  - 7-9HLD : 2SA, Mixed Raise
+  - 10HLD+ : cue-bid à saut
+
 <a id="2SA-fits-competitifs"></a>
 
 ### 2SA Truscott et autres fits en enchères compétitives
+
+Après **1♠ - (X)** : (Truscott)
+
+- XX : 11H+, possible fitté (3 atouts)
+- 2SA : fitté (4 atouts), 11H+
+- 3SA : pour les jouer
+
+Attention : pas de super Truscott, 3SA n'est jamais fitté ici.
+
+Après **1♠ - (2♥)** : (intervention en couleur)
+
+- 2SA : fitté (3 cartes), 11H+, illimité
+- 3♥ : cue-bid, fitté (4+ atouts) FM
 
 <a id="ouverture-d1sa"></a>
 
@@ -152,18 +285,21 @@ Stayman 4 paliers, texas classiques.
 **1SA**
 
 - 2♣ : stayman 4 paliers classique, possible majeure 5ème 7–8H
-  - 2♠ – 2SA :
-    - 3♥ : maxi avec 3♥
-    - 3SA : maxi sans 3♥
+- 2♦/♥ : texas ♥/♠, 5+ cartes, à partir de 0H
 - 2♠ : texas ♣
-- 2SA : 8H régulier
+- 2SA : 8-9H régulier, proposition de manche (camp mini 24H)
 - 3♣ : texas ♦
 - 3♦ : 6 cartes, besoin d’un support pour jouer 3SA
+- 3SA : 9-15H régulier, pour les jouer (camp 24-32H)
 - 3♥/♠ : 54 mineur 31 majeur, singleton nommé
   - 3SA : pour les jouer
   - 4m : choix de la couleur d’atout
 - 4♣ : 55 majeur (4♦ => pas de préférence, pour faire jouer le répondant)
 - 4♦ : 55 majeur avec préférence pour les piques
+- 4SA : 16-17H régulier, invite au petit chelem (camp mini 31H - maxi 34H)
+- 5SA : 20-21H régulier, forcing, invite au grand chelem (camp mini 35H - maxi 38H)
+- 6SA : 18-19H régulier, pour les jouer (camp 33-36H)
+- 7SA : 22-25H régulier, pour les jouer (camp 37-40H)
 
 <a id="stayman"></a>
 
@@ -259,13 +395,70 @@ Après **1SA – 2♥ – 2♠ – 2SA** :
 
 ### Défense face aux interventions sur notre ouverture d'1SA
 
+Rubensohl : toute enchère au palier de 2 est faible (naturelle, NF). Toute enchère à partir de 2SA est transfert (le transfert impossible = stayman).
+
+Après **1SA - (2♥)** :
+
+- 2SA : texas ♣ (6 cartes)
+- 3♣ : texas ♦ (6 cartes)
+- 3♦ : texas impossible = stayman irrégulier, 4♠ et courte à ♥, FM (le contre de 2♥ montre alors 4♠ et un jeu régulier ou propositionnel)
+- 3♥ : texas ♠ (5 ou 6 cartes)
+
+Après **1SA - (2♦)** : (2♦ naturel)
+
+- 2M : naturel, non forcing (5-6 cartes, maximum 8H)
+- 2SA : texas ♣ (6 cartes)
+- 3♣ : texas impossible = stayman, courte à ♦
+- 3♦ : texas ♥, FM (5-6 cartes)
+- 3♥ : texas ♠, FM (5-6 cartes)
+
 <a id="ouverture-de-2♣"></a>
 
 ## Ouverture de 2♣
 
+**2♣** : Kokish (FM ou 22-23H régulier)
+
+Après **2♣ - 2♦** (relais par défaut) :
+
+- 2♥ : unicolore ♥ ou 24+H régulier
+  - 2♠ (relais obligatoire) :
+    - 2SA : 24+H régulier
+    - autre enchère : naturel, main à base de ♥
+- 2♠ : unicolore ♠
+- 2SA : 22-23H régulier
+- 3♣ : naturel (majeure 4ième possible)
+  - 3♦ : stayman
+- 3♦ : 6♦ sans majeure 4ième
+- 3♥ : 6♦ + 4♥
+- 3♠ : 6♦ + 4♠
+
+Après **2♣** (réponse directe, sans passer par 2♦) :
+
+- 2♥/♠ : 5+ cartes avec 2 gros honneurs (GH), très belle main
+- 3♣/♦ : 6+ cartes avec 2 gros honneurs (GH), très belle main
+
+Sur 2SA de l'ouvreur (d'ouverture ou après 2♣) : stayman/texas classiques. Rectification fittée après un texas majeur.
+
 <a id="barrages"></a>
 
 ## Ouvertures de 2 faibles et autres barrages
+
+**Ouverture** : 2♦/2♥/2♠ — 6 cartes, faible, honneurs concentrés dans la couleur, pas de majeure 4ième
+
+Développements :
+
+- 3♦/♥/♠ (soutien) : prolongation du barrage
+- 4♦/♥/♠ (soutien) : pour les jouer
+- Changement de couleur : naturel, forcing
+- 2SA : forcing, exploration de manche, 15HLD+
+- 3SA : conclusion
+
+Après **2SA** (forcing) :
+
+- répétition de la couleur : mini
+- nouvelle couleur : force dans cette couleur + maxi
+- 3SA : maxi, sans singleton et sans force dans une autre couleur
+- nouvelle couleur au palier de 4 : splinter
 
 <a id="encheres-a-4"></a>
 
@@ -275,9 +468,47 @@ Après **1SA – 2♥ – 2♠ – 2SA** :
 
 ### Michael's Cue-bids précisés
 
+Récap général : environ 10H, nombre de perdantes fonction de la vulnérabilité (palier de 2 : 7-6-5 perdantes ; palier de 3 : 6-5-4 perdantes).
+
+Après **(1M)** :
+
+- 2M (cuebid) : l'autre majeure 5ième + ♣
+- 3♣ : l'autre majeure 5ième + ♦
+
+Après **(1m)** :
+
+- 2♦ de sa couleur (cuebid) : majeures 5-5
+
+Après **(1M) ou (1m)** :
+
+- 2SA : bicolore 5-5 des deux couleurs les moins chères (les deux non concernées par l'ouverture)
+
+<a id="defense-bicolores"></a>
+
+### Défense après un bicolore adverse
+
+Réponses après notre ouverture et Michael cuebid adverse :
+
+- cuebid de la couleur la moins chère : fit, au moins propositionnel
+- cuebid de la couleur la plus chère : au moins 6 cartes dans la 4ième couleur, main FM
+
+Exemple, après **1♥ - (2SA, pour les mineures)** :
+
+- 3♣ (cuebid de la plus petite des mineures) : fit et FM
+- 3♦ : au moins 6 cartes à ♠, FM
+
 <a id="intervention-sandwich"></a>
 
 ### Intervention du n°4
+
+Après **(1M) - passe - (1SA)** :
+
+- 2M (cuebid) : l'autre majeure + une mineure
+
+Après **(1x) - passe - (1y)** :
+
+- 2x (cuebid de l'ouverture) : bicolore 5-5 des deux autres couleurs, offensif
+- 2SA : bicolore 6-5 des deux autres couleurs, défensif
 
 <a id="intervention-1SA"></a>
 
@@ -310,7 +541,22 @@ Après **1SA – 2♥ – 2♠ – 2SA** :
 
 ### Enchères de rencontre
 
-Sur intervention 1m 1M
+Sur intervention 1m 1M.
+
+Après **(1X) - 1Y - (passe)** :
+
+- saut simple à Z (Z < Y) : fit pour Y (la couleur du partenaire), longueur à Z, propositionnel
+
+Exemple :
+
+- (1♦) - 1♥ - (passe) - 3♣ : 5+♣ et 4+♥, propo
+- (1♥) - 1♠ - (passe) - 3♦ : 5+♦ et 4+♠, propo
+
+Le même principe s'applique si l'adversaire relance au lieu de passer, par exemple :
+
+- (1♦) - 1♥ - (2♦) - 4♣
+- (1♥) - 1♠ - (2♥) - 4♣
+- (1♥) - 1♠ - (2♣) - 3♦
 
 <a id="developpements-apres-intervention-par-1SA"></a>
 
@@ -324,6 +570,16 @@ Sur intervention 1m 1M
 <a id="defense-1SA-X"></a>
 
 ### Défense après X punitif de notre 1SA d'intervention
+
+"Bicolores de toto" : après notre intervention à 1SA sur une ouverture adverse, et contre punitif de l'adversaire sur notre 1SA.
+
+Après **(1x) - 1SA - (X)** :
+
+- XX : une couleur 5ième
+  - suite : 2♣ (chez l'intervenant à 1SA) - (passe) - 2y (passe ou nomme sa vraie couleur)
+- 2♦ (par exemple): bicolore collé — ♦ et ♥ (la couleur juste au-dessus de celle nommée)
+- passe : bicolore décollé
+  - suite : (passe) - XX (relais forcé chez l'intervenant à 1SA) - (passe) - 2♦ (notre partenaire nomme son bicolore décollé ♦-♠)
 
 <a id="developpements-intervention-1SA"></a>
 
@@ -339,3 +595,15 @@ Si ouverture majeure tout transfert même le fit.
 <a id="carte"></a>
 
 ## Jeu de la carte
+
+**À Sans Atout et à l'atout**
+
+- Entame 4ème meilleure à SA, pair-impair à l'atout
+- Appel direct
+- Défausse lavinthal: la première défausse indique la couleur
+- Préférentielle dès que possible : pair-impair au premier pli, puis préférentielle
+- Switchs Petit prometteur
+
+**À Sans Atout uniquement**
+
+- Appel de Smith : grosse carte de l'entameur = l'entame ne m'intéresse pas du tout ; grosse carte du partenaire = ton entame m'intéresse beaucoup
