@@ -72,13 +72,14 @@ Meilleure mineure — Majeure 5e
 
 ### Développements après Bessis
 
-1m 2C  
-2SA = relais
-3T: 5P 4C mini(5-7)  
- 3K : 5P4C maxi(8-9)  
- 3C: 5P5C mini  
- 3P: 5P5C maxi  
- 3SA: 6P4C
+Après **1m - 2♥** :
+
+- 2SA : relais
+  - 3♣ : 5♠4♥, mini (5-7H)
+  - 3♦ : 5♠4♥, maxi (8-9H)
+  - 3♥ : 5♠5♥, mini
+  - 3♠ : 5♠5♥, maxi
+  - 3SA : 6♠4♥
 
 <a id="cachalot"></a>
 
@@ -112,7 +113,7 @@ Meilleure mineure — Majeure 5e
 - 4X : splinter
 - 4M : barrage
 
-Et 1C - 3P : splinter
+Et 1♥ - 3♠ : splinter
 
 <a id="fits-diff"></a>
 
@@ -282,13 +283,19 @@ Après **1SA – 2♥ – 2♠ – 2SA** :
 
 ### Intervention sur 1SA d'ouverture
 
-**En intervention sur 1SA**  
-X mineur-majeur (=> 2T passe ou corrige, 2K nomme ta majeure)
-2T les majeures (landi) (=> 2K nomme ta plus longue)
-2K unicolore majeur (2SA demande de description et de force)
-2M 5M et 4+m (2SA nomme ta mineure, plus fort que 3T qui est passe ou corrige)
-2SA les mineures
-3x barrage
+**En intervention directe sur 1SA adverse** :
+
+- X : mineur-majeur
+  - 2♣ : passe ou corrige
+  - 2♦ : nomme ta majeure
+- 2♣ : les majeures (landi)
+  - 2♦ : nomme ta plus longue
+- 2♦ : unicolore majeur
+  - 2SA : demande de description et de force
+- 2M : 5 cartes à M et 4+ dans une mineure
+  - 2SA : nomme ta mineure (plus fort que 3♣ qui est passe ou corrige)
+- 2SA : les deux mineures
+- 3x : barrage
 
 <a id="defense-barrages"></a>
 
@@ -314,8 +321,6 @@ Sur intervention 1m 1M
 1m 1SA : réponses comme si l'ouverture n'existe pas (texas, stayman...)
 1M 1SA : réponses tout texas, texas impossible = stayman
 
-### Défense après X punitif de notre 1SA d'intervention
-
 <a id="defense-1SA-X"></a>
 
 ### Défense après X punitif de notre 1SA d'intervention
@@ -324,7 +329,7 @@ Sur intervention 1m 1M
 
 ### Développements après intervention adverse d'1SA
 
-Si ouverture mineure 2T les majeures (LANDIK) et tout le reste transfert.
+Si ouverture mineure 2♣ les majeures (LANDIK) et tout le reste transfert.
 Si ouverture majeure tout transfert même le fit.
 
 <a id="principes-generaux"></a>

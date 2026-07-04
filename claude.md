@@ -41,6 +41,7 @@ Notation d'une enchère :
 
 - Symbole de couleur collé au chiffre, sans espace : 1♣, 2SA, 3♦ (jamais 1 ♣ ou 1C).
 - Alternative en majeure/mineure générique acceptée quand la couleur précise importe peu : M (majeure), m (mineure), X (contre), XX (surcontre).
+- x minuscule après un chiffre (ex. 3x) : nouvelle couleur générique quelconque, à distinguer de X majuscule qui reste réservé au contre (XX au surcontre).
 - Options groupées avec / sans espace : 2♥/♠, 3♣/♦ (= « 2♥ ou 2♠ », signification commune donnée une seule fois).
 - Séparateur : entouré d'un espace de chaque côté entre l'enchère et sa signification : 1SA : 15–17H.
 - Zones de points en tiret cadratin sans espace, suffixe H collé : 15–17H, jamais 15-17 H.
