@@ -68,6 +68,21 @@ Meilleure mineure — Majeure 5e
 
 ### Développements après réponse en majeure
 
+Après **1m - 1M - 2SA** :
+
+- 3m (répétition de la mineure) : chelemisant à m
+- 3m' (l'autre mineure) : checkback stayman (CS)
+
+Après **1m - 1♥ - 2SA - 3m'** : CS sur 1♥, fonctionne comme une sorte de roudi — l'ouvreur a dénié 4 cartes à ♠ en ne disant pas 1♠, ce CS informe l'ouvreur que le répondant a 5 cartes à ♥ et pas seulement 4
+
+- 3♥ : 3 cartes à ♥
+- 3SA : sinon
+
+Après **1m - 1♠ - 2SA - 3m'** : CS sur 1♠, fait avec 5 cartes à ♠ et/ou 4 cartes à ♥ (avec 5-5, le répondant dit d'abord 1♠ puis nomme ses coeurs)
+
+- 3♥ : 4 cartes à ♥ (si le répondant dit 3SA ensuite, ce ne sont pas les ♥ qui l'intéressent mais il a 5 cartes à ♠)
+- 3♠ : 3 cartes à ♠ (dénie 4 cartes à ♥)
+
 <a id="Bessis"></a>
 
 ### Développements après Bessis
