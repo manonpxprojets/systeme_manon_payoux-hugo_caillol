@@ -603,6 +603,12 @@ Après **(1x) - 1SA - (X)** :
 Si ouverture mineure 2♣ les majeures (LANDIK) et tout le reste transfert.
 Si ouverture majeure tout transfert même le fit.
 
+<a id="Réveils"></a>
+
+## Réveils
+
+Sur 1SA de réveil, réponses en MINOU-MATOU
+
 <a id="principes-generaux"></a>
 
 ## Principes Généraux
