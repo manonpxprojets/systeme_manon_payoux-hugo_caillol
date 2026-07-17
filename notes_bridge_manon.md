@@ -7,7 +7,7 @@ La séquence 1M 1SA 2SA
  - bicolore 5+/4 (pas 5/5)
  - unicolore
  - jeu régulier 18-19H avec trou à P
-
+ 
  Développements après 1C 1SA 2SA FM
 
  - 3T : relais
