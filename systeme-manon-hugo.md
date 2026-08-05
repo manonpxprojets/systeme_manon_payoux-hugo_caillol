@@ -24,6 +24,7 @@ Meilleure mineure — Majeure 5e
    - [Réponses](#reponses1M)
    - [Fits différés](#fits-diff)
    - [Développements après 2/1 FM](#2over1)
+   - [Développements après 1♥-1♠](#developpements-apres-1M-1M)
    - [Redemande à 2SA FM après 1M-1SA](#redemande-1M-1SA-2SA)
    - [Enchères après passe](#drury)
    - [Mixed Raises](#mixed-raises)
@@ -44,7 +45,7 @@ Meilleure mineure — Majeure 5e
    - [Intervention sur 1SA d'ouverture](#intervention-1SA)
    - [Defense sur les barrages adverses](#defense-barrages)
    - [Défense sur 2K Multi](#defense-2k-multi)
-   - [Développements après notre intervention par 1SA](#developpements-apres-intervention-par-1SA)
+   - [Développements après notre intervention par 1SA](#developpements-apres-notre-intervention-par-1SA)
    - [Défense après X punitif de notre 1SA d'intervention](#defense-1SA-X)
    - [Développements après intervention adverse d'1SA](#developpements-intervention-1SA)
 8. [Principes Généraux](#principes-generaux)
@@ -64,13 +65,25 @@ Meilleure mineure — Majeure 5e
 
 ### Réponses
 
+| Enchère | Signification |
+| --- | --- |
+| 1M | 4+ cartes |
+| 1SA | pas de majeure 4e, 7–10H |
+| 2m | fit faible, 6–10H |
+| 2♥ | Bessis |
+| 2♠ | 6 piques, main très faible (ne veut pas jouer la manche en face de 18–19 rég) |
+| 2SA | 11–12H, jeu régulier sans majeure 4e |
+| 3SA | 13–15H, jeu régulier sans majeure 4e |
+
+1♦ - 2♣ : 2/1 FM
+
 <a id="développements-1m-1M"></a>
 
 ### Développements après réponse en majeure
 
 Après **1m - 1M - 2SA** :
 
-- 3m (répétition de la mineure) : chelemisant à m
+- 3m (mineure de l'ouvreur) : chelemisant à m
 - 3m' (l'autre mineure) : checkback stayman (CS)
 
 Après **1m - 1♥ - 2SA - 3m'** : CS sur 1♥, fonctionne comme une sorte de roudi — l'ouvreur a dénié 4 cartes à ♠ en ne disant pas 1♠, ce CS informe l'ouvreur que le répondant a 5 cartes à ♥ et pas seulement 4
@@ -105,28 +118,29 @@ Sur une ouverture mineure, après une intervention adverse de 1♦ ou 1♥.
 Après **1♣ - (1♦)** :
 
 - **Palier 1**
-  - X\* : au moins 4♥
-  - 1♥\* : au moins 4♠
-  - 1♠\* : contre d'appel
+  - X : au moins 4♥
+  - 1♥ : au moins 4♠
+  - 1♠ : contre d'appel
 - **Palier 2**
-  - 2♦ : 6 cartes à ♥, faible ou FM
-  - 2♥ : 6 cartes à ♠, faible ou FM (après la rectification, il reparle s'il est FM, sinon il passe)
+  - 2♦/♥ : 6 cartes à ♥/♠, faible ou FM (après la rectification, il reparle s'il est FM, sinon il passe)
   - 2♠ : jeu FM, pas d'arrêt dans la couleur d'intervention (ou demi-arrêt) — réponses au palier 3
 - **Palier 3**
-  - 3♦ : 6 cartes à ♥, jeu propositionnel de manche (10-11H) ; l'ouvreur corrige à 3♥/3♠ ou conclut à la manche (3SA/4♥/4♠)
+  - 3♦/♥ : 6 cartes à ♥/♠, jeu propositionnel de manche (10-11H) ; l'ouvreur corrige à 3♥/3♠ ou conclut à la manche (3SA/4♥/4♠)
+  - 3♠ : demande complément d'arrêt pour jouer 3SA de la bonne main (avec Axx par exemple)
 
 Après **1♣/1♦ - (1♥)** : palier 1
 
-- X\* : au moins 4♠
-- 1♠\* : contre d'appel
+- X : au moins 4♠
+- 1♠ : contre d'appel
 
-Réponse de l'ouvreur (sur les enchères marquées \*) :
+Redemande de l'ouvreur sur transfert au palier de 1 :
 
-- nommer la couleur du répondant sans saut : 3 cartes
-- saut simple : fit (4 cartes) et ouverture de 1ère zone
-- double saut : fit et ouverture de 2ième zone
+- rectifier le transfert dans la couleur du répondant au palier de 1 : 3 cartes
+- palier de 2 : fit (4 cartes) et ouverture de 1ère zone
+- palier de 3 : fit et ouverture de 2ième zone
 - 1SA : main régulière de 1ère zone avec arrêt dans la couleur du répondant
-- contre : 3 cartes dans la couleur du répondant et une belle ouverture
+
+Si n°4 parle, contre : 3 cartes dans la couleur du répondant et une belle ouverture
 
 <a id="roudi"></a>
 
@@ -138,9 +152,22 @@ Après **1♥ - 1♠ - 1SA - 2♣** : roudi, le répondant a 5 cartes à ♠
 - 2♥ : 3 cartes à ♠, mini
 - 2♠ : 3 cartes à ♠, maxi
 
+Après **1m - 1M - 1SA** :
+
+- 2♣ : roudi
+- 2♦ : canapé ?
+- 3m : 4 cartes à M, 4+ cartes m, main irrégulière ou espoir de chelem
+- 3m' : toujours 5-5
+
+Conséquences du Bessis, et Roudi avec les mains bicolores ♠-♥ :
+
+- 1m - 1♠ - 1SA - 2♥ : 9+/10H, légèrement plus beau que Bessis
+- 1m - 1♠ - 1SA - 2♣ - 2♦ - 2♥ : 5 piques 4 cœurs limite (11–12H non FM)
+- 1m - 1♠ - 1SA - 2♣ - 2x - 3♥ : 4 cœurs FM
+
 Attention : après **1♥ - 1♠ - 1SA - 2♣ - 2♦** (l'ouvreur n'a pas 3 cartes à ♠), un 2♠ du répondant est alors pour les jouer (naturel, plus du tout relais).
 
-<a id="#redemande-1m-2SA"></a>
+<a id="redemande-1m-2SA"></a>
 
 ### Redemande à 2SA
 
@@ -185,19 +212,81 @@ Après **1♦ - (p) - 2♣ - (p)** : (ouverture mineure)
 Après **1♥ - (p) - 2♣ - (p)** : (ouverture majeure)
 
 - 2SA : mini (12-14H) ou maxi (18-19H)
-- 2m : bicolore éco
+- 2♦ : bicolore au au moins 5-4, 12+H
+- 2♥ : répétition de la couleur, ne promet rien de plus
 - 2♠ : bicolore cher atténué, au moins 15H
-- 2♥ : répétition de la couleur, ne promet pas de carte supplémentaire à ♥
+- 2SA : mini (12-14H) ou maxi (18-19H)
+- 3♦ (saut) : bicolore à saut, au moins 5-5, 15+H
 - 3SA : 15-17H, singleton ♣
 
 Après **1♠ - (p) - 2♣ - (p)** : (ouverture majeure)
 
-- 2♠ : répétition de la couleur, promet 1 carte à ♠ en plus
-- Sinon : forcément 2SA / 3SA / 2m / 2♥ (2♥ utilisé ici comme enchère de remplissage, sans rapport avec les cœurs)
+- 2♠ : répétition de la couleur, promet 6♠ spécifiquement dans cette séquence
+- 2♦/♥ : bicolore au au moins 5-4, 12+H
+- 2SA : mini (12-14H) ou maxi (18-19H)
+- 3♦/♥ (saut) : bicolore à saut, au moins 5-5, 15+H
+- 3SA : 15-17H, singleton ♣
+
+<a id="developpements-apres-1M-1M"></a>
+
+### Développements après 1♥-1♠
+
+Après **1♥ - 1♠** :
+
+- 3♣/3♦ : bicolore à saut, FM, 5+/4+, ou unicolore ♥ sans couleur secondaire pour rendre la séquence FM
+- 2♣/2♦ : bicolore éco, 5+/4+, jusqu'à 17H
 
 <a id="redemande-1M-1SA-2SA"></a>
 
 ### Redemande à 2SA FM après 1M-1SA
+
+Après **1♥ - 1SA** :
+
+- 2♠ : bicolore 5+/4+ ♥/♠, cœurs plus longs que les piques (avec 5♠5♥ on ouvre de 1♠ ; avec 18H+, bicolore à saut : 1♠ - 1SA - 3♥)
+- 3♣/3♦ : bicolore à saut, 5+/5+, FM, 18H+
+- 2SA : FM, main FM 18H+ avec :
+  - bicolore 5+/4 (pas 5/5)
+  - unicolore
+  - jeu régulier 18-19H avec trou à ♠
+
+Après **1♥ - 1SA - 2SA** :
+
+- 3♣ : relais
+  - 3♦ : 5♥/4♦
+  - 3♥ : unicolore ♥
+  - 3♠ : 5♥/4♣
+  - 3SA : 5332 avec 2 petits ♠
+- 3♦ : fit faible (4-5H), non FM
+- 3♥ : bicolore mineur faible
+- 3♠ : texas ♣, 6 cartes
+- 3SA : texas ♦, 6 cartes
+- 4♥ : fit faible (6-7H)
+
+L'ouvreur ne corrige le texas que s'il est fitté et intéressé.
+
+Après **1♠ - 1SA** :
+
+- 3♣ : 5+/4+ ♠/♣ (pas forcément 5/5 : le relais de 2SA ne permet pas de décrire un 5♠/4♣)
+- 3♦/3♥ : bicolore à saut, 5+/5+, FM, 18H+
+- 2SA : FM, main FM 18H+ avec :
+  - bicolore 5+/4 (pas 5/5)
+  - unicolore
+  - jeu régulier 18-19H 5332 avec 3 cœurs
+
+Après **1♠ - 1SA - 2SA** :
+
+- 3♣ : relais
+  - 3♦ : 5♠/4♦
+  - 3♥ : 5♠/4♥
+  - 3♠ : unicolore ♠
+  - 3SA : 18-19H 5332 avec 3 cœurs (avec seulement 2 cœurs, 3SA directement sur 1SA)
+- 3♦ : texas ♥, 5 cartes, faible
+- 3♥ : texas ♠, 5 cartes, faible
+- 3♠ : texas ♣, 6 cartes
+- 3SA : texas ♦, 6 cartes
+
+L'ouvreur ne corrige le texas que s'il est fitté et intéressé.
+
 
 <a id="drury"></a>
 
@@ -245,7 +334,7 @@ REGLE : exceptionnellement, ici on nomme les singletons dans l'ordre croissant d
 
 **Autres enchères d'un répondant passé**
 
-- 1M - changement de couleur à saut : bicolore de rencontre, au moins 5-4, 11-12H
+- 1M - changement de couleur à saut : bicolore de rencontre, au moins 5-4, 11-12HLD
 - 1M - 3M : barrage
 - 1♠ - 2♥ : en principe 6+ cartes à ♥, misfit, environ 7-10H
 
@@ -576,10 +665,12 @@ Le même principe s'applique si l'adversaire relance au lieu de passer, par exem
 <a id="developpements-apres-notre-intervention-par-1SA"></a>
 
 ### Développements après notre intervention par 1SA
+
 "Minou/matou"
 
-1m 1SA : réponses comme si l'ouverture n'existe pas (texas, stayman...)
-1M 1SA : réponses tout texas, texas impossible = stayman
+Après **1m 1SA** : réponses comme si l'ouverture n'existe pas (texas, stayman...).
+
+Après **1M 1SA** : réponses tout texas, texas impossible = stayman.
 
 <a id="defense-1SA-X"></a>
 

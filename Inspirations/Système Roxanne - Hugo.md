@@ -15,9 +15,6 @@ Blackwood 4130, BW exclusion 30-41, BW au roi: on répond l’un ou les deux aut
 
 **Ouvertures mineures**
 
-Double deux après redemande à 1SA  
-\=\> saut au palier de 3 sans double 2 \= mains de chelem (autre couleur \= bicolore 55, répétition \= unicolore FM)
-
 Cachalot 3 paliers, le cue bid est toujours à 2P. 3P \= as troisieme dans la couleur pour jouer 3SA
 
 1m	2C  
