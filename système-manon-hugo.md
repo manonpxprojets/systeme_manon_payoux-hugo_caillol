@@ -573,11 +573,10 @@ Le même principe s'applique si l'adversaire relance au lieu de passer, par exem
 - (1♥) - 1♠ - (2♥) - 4♣
 - (1♥) - 1♠ - (2♣) - 3♦
 
-<a id="developpements-apres-intervention-par-1SA"></a>
+<a id="developpements-apres-notre-intervention-par-1SA"></a>
 
+### Développements après notre intervention par 1SA
 "Minou/matou"
-
-- Détails
 
 1m 1SA : réponses comme si l'ouverture n'existe pas (texas, stayman...)
 1M 1SA : réponses tout texas, texas impossible = stayman
