@@ -40,15 +40,15 @@ Sur un 1SA **faible** (12-14), la logique s'inverse :
 
 <a id="zones"></a>
 
-## Les zones
+## Les zones du X
 
-Règle générale utilisable quelle que soit la zone adverse : **toute enchère promet environ 2 points de plus que la moyenne du 1SA adverse** (arrondie au point supérieur). Un peu moins avec une couleur 6ème.
+Le X promet au moins la zone haute de leur 1SA : 
 
-| Zone adverse | Moyenne | Notre contre | Notre réveil |
-| --- | --- | --- | --- |
-| 10-12 / 10-13 | ~11-12 | 13-14H+ | 11-12H+ |
-| **12-14** | **13** | **15H+** | **13H+** |
-| 13-15 | 14 | 16H+ | 14H+ |
+| Zone adverse | Notre contre | Notre réveil |
+| --- | --- | --- |
+| 10-12 / 10-13 | 12H+ | 10H+ |
+| **12-14** | **13H+** | **11H+** |
+| 13-15 | 14H+ | 11H+ |
 
 Avec **17-18H réguliers**, on **contre** — on ne dit pas 2SA. Les simulations donnent le contre nettement gagnant, et si l'adversaire se sauve, on est toujours à temps de reparler pour montrer la force. C'est ce qui libère 2SA pour un sens conventionnel (chez nous : les deux mineures).
 
@@ -60,16 +60,12 @@ Avec **17-18H réguliers**, on **contre** — on ne dit pas 2SA. Les simulations
 
 Structure identique à notre défense sur 1SA fort, **sauf le contre**.
 
-| Enchère | Signification | Changement |
+| Enchère | Signification |
 | --- | --- | --- |
-| **X** | **Punitif** : 15H+, régulier ou semi-régulier (54, 4441). Dénie en principe un singleton en majeure. | ⚠️ **Nouveau** — remplace le mineur-majeur |
-| **2♣** | Landy : les deux majeures, au moins 5-4, valeur d'ouverture | inchangé |
-| **2♦** | Unicolore majeur | inchangé |
-| **2♥ / 2♠** | 5 cartes à la majeure + 4+ dans une mineure | inchangé |
-| **2SA** | Les deux mineures, 5-5 | inchangé |
-| **3x** | Barrage, 7+ cartes, 6-7 levées de jeu selon la vulnérabilité | inchangé |
-
-Le seul vrai coût du changement : la main **mineure-majeure** qui disait X chez nous n'a plus d'enchère dédiée. Voir [Points à trancher](#a-trancher).
+| **X** | **Punitif** : tendance punitive, régulier ou semi-régulier.
+| **2♣** | Landy : les deux majeures, au moins 5-4, valeur d'ouverture
+| **2♦/♥/♠/SA** | Texas, avec au moins la valeur d'une ouverture, dans une majeure avec au moins 5 cartes, dans une mineure avec au moins 6.
+| **3x** | Barrage, 7+ cartes, 6-7 levées de jeu selon la vulnérabilité |
 
 ---
 
@@ -77,15 +73,17 @@ Le seul vrai coût du changement : la main **mineure-majeure** qui disait X chez
 
 ## Réponses au contre
 
-Le contre montre 15H+ régulier. Il n'est **pas** d'appel : on n'a aucune indication sur ses couleurs.
-
 **Le réflexe : passer.** Le contre est punitif, on le laisse.
 
-- **Passe** avec toute main régulière, **même nulle** — 4333, 4432, on passe.
-- Passer reste gagnant même avec **10H et plus** : les simulations montrent qu'on gagne largement à encaisser plutôt qu'à chercher 3SA, y compris vulnérable contre non-vulnérable.
-- **2♣ / 2♦ / 2♥ / 2♠** : naturel **faible** (0-8H), couleur au moins 5ème. C'est un dégagement, pas une proposition.
-- **2SA** : bicolore 5-5 à couleurs **collées** (♣♦, ♦♥, ♥♠ ou ♠♣). Le contreur dit 3♣, sauf s'il est plus court à ♣ que dans les autres couleurs.
-- **À partir de 3♣** : exactement comme si le partenaire avait ouvert de **2SA** — 3♣ stayman, 3♦/3♥ texas, etc. Réservé aux mains où il faut vraiment jouer une manche (ou un chelem).
+- **Passe** 8H+ (plus souple lorsque le contre montre 14)
+- **2♣** : 0-7H, pas de majeure 5e
+- **2♦ / 2♥** : texas, souvent faible (rectification obligatoire)
+- **2♠/SA** : texas ♣/♦ : unicolore de 8-9H ou main FM : objectif trouver notre couleur avant qu'ils dégagent en majeure / jouer 3SA si le contreur a plus que le minimum.
+- **3x** : bicolore 5-5 FM.
+- **3♣** : ♣ + maj => relais à 3♦ pour connaitre la majeure
+- **3♦** : ♦ + maj => relais à 3♥ pour connaitre la majeure (3♠ naturel et 3SA pour les ♥)
+- **3♥** : ♥ + ♠
+- **3♠** : ♣ + ♦
 
 ---
 
@@ -119,38 +117,38 @@ Exemple sur **(1SA) - X - (2♥) - ?** :
 
 ## Réponses aux autres interventions
 
-Les développements de notre défense sur 1SA fort restent valables. Deux ajouts utiles :
-
-**Face à une intervention unicolore** (2♦ puis la majeure, ou 3x) :
-
-- sans fit : passe
-- fit + 10-11DH : soutien au palier de 3
-- fit + 12DH et plus : 2SA, demande de description
-
 **Face à un bicolore** (Landy, 2M, 2SA) :
 
 - sans fit : simple préférence, au palier le plus bas
 - fit + 12-13H : soutien au palier de 3
 - fit + 14-15H : 2SA
 
-**Face à un texas** (si on adopte la variante texas, voir [Points à trancher](#a-trancher)) : moins de 9H, on rectifie ; 9H et plus, on fait autre chose (2SA, cue-bid, fit à saut).
+**Face à un texas à 2♦/♥**
+
+- jeux faibles (7H et moins), même misfittés : on rectifie. Avec moins de 10H et sans fit, on rectifie aussi (on aurait sûrement passé sur une intervention naturelle).
+- fit à saut : équivalent du fit positif sur l'ouverture au palier de 1 (Exemple : sans 1SA faible 1P - 2P => 1SA 2C (texas) p 3P).
+- changement de couleur : forcing et misfitté.
+- 2SA : forcing un tour, promet au moins 2 cartes dans la couleur du partenaire et une dizaine de points.
+
+**Face à un texas à 2♠/SA**
+
+- jeux faibles (9H et moins), même misfittés : on rectifie. Avec moins de 10H et sans fit, on rectifie aussi (on aurait sûrement passé sur une intervention naturelle).
+- "Trou" (2SA sur 2♠ texas ♣ et 3♣ sur 2SA texas ♦ : main positive, au moins propositionnelle de manche.
+- Changement de couleur : naturel, FM.
+
+L'enchère du n°3 libère le n°4 de parole : il passe avec un jeu nul, et rectifie uniquement si fitté
 
 ---
 
 <a id="reveil"></a>
 
-## Au réveil
+## En réveil
 
 Séquence : **(1SA) - p - (p) - ?**
 
-Même structure qu'en n°2, avec deux ajustements :
-
-- **On contre à partir de 13H** au lieu de 15H.
-- On peut faire une intervention à la couleur avec **6 cartes et 10H+**.
+Même structure qu'en n°2, mais plus souple (Ok avec 2H de moins qu'en intervention)
 
 Attention à la conséquence côté partenaire : le contre de réveil étant moins fort, **le partenaire du réveilleur considère qu'il a une main faible** (moins de 10H) et dégage plus volontiers. Il peut malgré tout passer avec un peu moins de 10H s'il a une bonne entame — il est bien placé, devant l'ouvreur.
-
-Les couleurs annoncées en réveil peuvent être plus courtes : 2♣ et 2♦ à partir de 4 ou 5 cartes, 2♥ et 2♠ plutôt 5.
 
 ---
 
@@ -162,53 +160,25 @@ Les couleurs annoncées en réveil peuvent être plus courtes : 2♣ et 2♦ à 
 
 | | |
 | --- | --- |
-| X | **punitif**, 15H+ régulier / semi-régulier |
-| 2♣ | Landy, les majeures 5-4+ |
-| 2♦ | unicolore majeur |
-| 2♥ / 2♠ | 5 cartes à M + 4+ dans une mineure |
-| 2SA | les deux mineures 5-5 |
-| 3x | barrage 7+ cartes |
-| **En réveil** | pareil, mais X dès 13H |
+| **X** | **Punitif** : tendance punitive, régulier ou semi-régulier.
+| **2♣** | Landy : les deux majeures, au moins 5-4, valeur d'ouverture
+| **2♦/♥/♠/SA** | Texas, avec au moins la valeur d'une ouverture, dans une majeure avec au moins 5 cartes, dans une mineure avec au moins 6.
+| **3x** | Barrage, 7+ cartes, 6-7 levées de jeu selon la vulnérabilité |
+| **En réveil** | pareil, mais minimum plus bas |
 
 **Réflexes**
 
 - Sur 1SA faible, **le contre est notre arme n°1**. On ne le gaspille pas en convention.
 - Avec 17-18H réguliers : **contrer**, pas 2SA.
-- En face du contre : **passer**, même avec une main nulle, même avec 10H+.
-- On dégage seulement avec une couleur 5ème et 0-8H.
+- En face du contre : **passer** si on accepte de punir, même avec 10H+.
+- On dégage seulement avec 0-8H.
 - S'ils se sauvent : **Rubensohl**, comme si le partenaire avait ouvert d'1SA.
 - Notre 2ème contre = valeurs, pas punitif d'office.
 
 ---
 
-<a id="a-trancher"></a>
-
-## Points à trancher
-
-**1. Où loger le bicolore mineur-majeur ?**
-
-C'est le trou laissé par le passage du contre en punitif. Trois options :
-
-- **Ne rien faire** : avec 5M+4m on dit 2M (déjà prévu), avec 4M+5m on passe ou on nomme la mineure au palier de 3. On perd peu, et on garde un système léger. *C'est ma recommandation.*
-- Utiliser 2♦ pour le mineur-majeur et renoncer à l'unicolore majeur.
-- Ajouter une enchère (3♣ par exemple), au prix d'une case de barrage.
-
-**2. Structure « tout texas » plutôt que la nôtre ?**
-
-Une école répandue joue, sur 1SA faible : X punitif 14H+, 2♣ Landy, puis **tous les paliers en texas** (2♦ texas ♥, 2♥ texas ♠, 2♠ texas ♣, 2SA texas ♦), constructif, 6 cartes ou 5431 avec la courte en majeure, 15H+.
-
-Avantage : on met systématiquement l'ouvreur à l'entame. Inconvénient : c'est un deuxième système à mémoriser, alors que notre structure actuelle marche déjà et sert aussi contre le 1SA fort. **Je pencherais pour garder notre structure** et ne changer que le contre — un seul point à retenir en plus.
-
-**3. Faut-il un seuil différent selon la vulnérabilité ?** Les sources n'en parlent pas, mais punir non-vulnérable contre vulnérable rapporte beaucoup plus. À voir si on veut contrer un peu plus léger dans cette configuration.
-
----
-
 <a id="sources"></a>
 
-## Sources
+## Source
 
-- [Défense contre le Sans-Atout faible](https://www.witp.fr/bridge/sursafaible.pdf) — la source la plus fournie, avec les simulations chiffrées (contre vs 2SA avec 17-18H, passe vs 3SA en face du contre)
-- [Défense contre le SA faible — Club de Bridge de Creil](http://clubbridgecreil.over-blog.fr/article-defense-contre-le-sa-faible-79472909.html) — zones et développements face aux interventions unicolores et bicolores
-- [Le Sans-Atout faible — hegerm.ch](https://www.hegerm.ch/textes/1SAfaible.html) — « on n'intervient pas, ni ne réveille, sans l'ouverture »
 - [Défense contre 1SA faible — Amour du bridge](https://amourdubridge.fr/defense-contre-1sa-faible/) (Marc Kerlero) — **réservé aux abonnés**, non consulté. Même auteur que notre fiche [Défense sur 2♦ Multi](defense-2k-multi.md) ; à récupérer si tu t'abonnes.
-- [Woolsey convention](https://en.wikipedia.org/wiki/Woolsey_convention) / [Multi-Landy](https://www.bridgebum.com/multi_landy.php) — pour situer notre structure : c'est du Multi-Landy, dont la version d'origine prévoit justement le **contre punitif** contre un SA faible
